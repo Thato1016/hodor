@@ -33,7 +33,7 @@ of votes to a PHP form. The levels and their corresponding scripts are listed be
 
 ## Author :black_nib:
 
-* __Thato B Khosa__ <[bdbaraban](https://github.com/Thato1016)>
+* __Thato B Khosa__ <[Thato1016](https://github.com/Thato1016)>
 
 ## Acknowledgements :pray:
 
